@@ -1,4 +1,4 @@
-CPM (Critical Path Methon) implementation in python.
+CPM (Critical Path Method) implementation in python.
 
 Dependencies:
 
