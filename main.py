@@ -14,6 +14,19 @@ activities = {
     'G': {'duration': 3, 'pred': ['F']},
     'H': {'duration': 1, 'pred': ['G']},
     'I': {'duration': 2, 'pred': ['F']}
+
+    # 'A': {'duration': 3, 'pred': []},
+    # 'B': {'duration': 4, 'pred': ['A']},
+    # 'C': {'duration': 3, 'pred': ['A']},
+    # 'D': {'duration': 5, 'pred': ['B', 'C']},
+    # 'E': {'duration': 4, 'pred': ['D']},
+    # 'F': {'duration': 3, 'pred': ['B']},
+    # 'G': {'duration': 7, 'pred': ['E','F']},
+    # 'H': {'duration': 5, 'pred': ['G']},
+    # 'I': {'duration': 4, 'pred': ['H']},
+    # 'J': {'duration': 2, 'pred': ['D']},
+    # 'K': {'duration': 3, 'pred': ['I']},
+    # 'L': {'duration': 1, 'pred': ['K']}
 }
 
 # construire graf (lista succesorilor)
